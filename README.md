@@ -2,7 +2,6 @@
 
 
 
-
 ## O Desafio
 
 O desafio consiste em demostrar um app funcional utilizando cada um dos 4 conceitos abaixo. Note que todos os desafios tratam sobre o tema de Navegação em React Native. Ou seja, o time deverá implementar um projetos (4 projeto, cada um em um repositório do Github) demonstrando o funcionamento dos tema de navegação. Todos os projetos DEVEM apresentar a navegação entre 3 telas diferentes. DENOMINE AS TELAS DE NOMES:TelaA.js, TelaB.js e TelaC.js, obrigatoriamente.
